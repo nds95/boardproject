@@ -1,10 +1,10 @@
-package com.group.boardproject;
+package com.group.boardback;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BoardprojectApplicationTests {
+class BoardBackApplicationTests {
 
 	@Test
 	void contextLoads() {
